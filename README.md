@@ -1,4 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohammad Al Bloushi===========================================================================================================================================Junior FullStack Web Developer------------------------------I am a junior web developer passionate about the work I do. Constantly looking for ways to learn and improve myself. Full time freelancer with experience in cutting edge technologies* 🌍  I'm based in Abu Dhabi, UAE* ✉️  You can contact me at [mohammad.bloushi@outlook.com](mailto:mohammad.bloushi@outlook.com)* 🧠  I'm learning dotnet with C#* 🤝  I'm open to collaborating on Web app with react and next js, backend projects with node and prisma* ⚡  I'm in love with cars
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohammad Al Bloushi
+===========================================================================================================================================
+Junior FullStack Web Developer
+------------------------------
+I am a junior web developer passionate about the work I do. Constantly looking for ways to learn and improve myself. Full time freelancer with experience in cutting edge technologies* 🌍  I'm based in Abu Dhabi, UAE* ✉️  You can contact me at [mohammad.bloushi@outlook.com](mailto:mohammad.bloushi@outlook.com)* 🧠  I'm learning dotnet with C#* 🤝  I'm open to collaborating on Web app with react and next js, backend projects with node and prisma* ⚡  I'm in love with cars
 
 ### Skills
 
