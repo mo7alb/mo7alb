@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior FullStack Web Developer
 ------------------------------
 
-I am a junior web developer passionate about the work I do. Constantly looking for ways to learn and improve myself. Full time freelancer with experience in cutting edge technologies
+I am a web and mobile developer passionate about the work I do. Constantly looking for ways to learn and improve myself. Full time freelancer with experience in cutting edge technologies
 
 *   🌍  I'm based in Abu Dhabi, UAE
 *   ✉️  You can contact me at [mohammad.bloushi@outlook.com](mailto:mohammad.bloushi@outlook.com)
