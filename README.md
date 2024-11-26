@@ -8,9 +8,7 @@ I am a web and mobile developer passionate about the work I do. Constantly looki
 
 *   🌍  I'm based in Abu Dhabi, UAE
 *   ✉️  You can contact me at [mohammad.bloushi@outlook.com](mailto:mohammad.bloushi@outlook.com)
-*   🧠  I'm learning dotnet with C#
-*   🤝  I'm open to collaborating on Web app with react and next js, backend projects with node and prisma
-*   ⚡  I'm in love with cars
+*   🤝  I'm open to collaborating on react based frontend projects, backend projects with node, and mobile based applications with react native and expo
 
 ### Skills 
 <p align="left">
