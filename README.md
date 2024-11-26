@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohammad Al Bloushi
 ===========================================================================================================================================
 
-Junior FullStack Web Developer
+Web and Mobile Developer
 ------------------------------
 
 I am a web and mobile developer passionate about the work I do. Constantly looking for ways to learn and improve myself. Full time freelancer with experience in cutting edge technologies
